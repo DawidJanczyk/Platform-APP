@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Design_App"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="MainWindow" Height="900" Width="1600" AllowsTransparency="True" WindowStyle="None">
+        Height="900" Width="1600" AllowsTransparency="True" WindowStyle="None">
     <Window.Resources>
         <Style x:Key="MyButton" TargetType="Button">
             <Setter Property="OverridesDefaultStyle" Value="True" />
